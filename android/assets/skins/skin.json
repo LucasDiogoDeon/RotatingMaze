@@ -1,0 +1,166 @@
+{
+  "com.badlogic.gdx.graphics.g2d.BitmapFont": {
+	"04b_19": {
+	  "file": "fonts/04b_19.fnt"
+	},
+	"04b_19_shadow": {
+	  "file": "fonts/04b_19_shadow.fnt"
+	},
+	"candles_regular_216_beige_dark": {
+	  "file": "fonts/candles_regular_216_beige_dark.fnt"
+	}
+  },
+
+  "com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle": {
+	"04b_19": {
+	  "font": "04b_19"
+	},
+	"04b_19_shadow": {
+	  "font": "04b_19_shadow"
+	},
+	"candles_regular_216_beige_dark": {
+	  "font": "candles_regular_216_beige_dark"
+	}
+  },
+
+  "com.badlogic.gdx.scenes.scene2d.ui.ImageButton$ImageButtonStyle": {
+	"down": {
+	  "up": "buttons/down",
+	  "over": "buttons/down__over",
+	  "down": "buttons/down__down"
+	},
+	"editor": {
+	  "up": "buttons/editor",
+	  "over": "buttons/editor__over",
+	  "down": "buttons/editor__down"
+	},
+	"exit": {
+	  "up": "buttons/exit",
+	  "over": "buttons/exit__over",
+	  "down": "buttons/exit__down"
+	},
+	"help": {
+	  "up": "buttons/help",
+	  "over": "buttons/help__over",
+	  "down": "buttons/help__down"
+	},
+	"info": {
+	  "up": "buttons/info",
+	  "over": "buttons/info__over",
+	  "down": "buttons/info__down"
+	},
+	"left": {
+	  "up": "buttons/left",
+	  "over": "buttons/left__over",
+	  "down": "buttons/left__down"
+	},
+	"pause": {
+	  "up": "buttons/pause",
+	  "over": "buttons/pause__over",
+	  "down": "buttons/pause__down"
+	},
+	"play": {
+	  "up": "buttons/play",
+	  "over": "buttons/play__over",
+	  "down": "buttons/play__down"
+	},
+	"return": {
+	  "up": "buttons/return",
+	  "over": "buttons/return__over",
+	  "down": "buttons/return__down"
+	},
+	"retry": {
+	  "up": "buttons/retry",
+	  "over": "buttons/retry__over",
+	  "down": "buttons/retry__down"
+	},
+	"right": {
+	  "up": "buttons/right",
+	  "over": "buttons/right__over",
+	  "down": "buttons/right__down"
+	},
+	"settings": {
+	  "up": "buttons/settings",
+	  "over": "buttons/settings__over",
+	  "down": "buttons/settings__down"
+	},
+	"statistics": {
+	  "up": "buttons/statistics",
+	  "over": "buttons/statistics__over",
+	  "down": "buttons/statistics__down"
+	},
+	"thumbs_down": {
+	  "up": "buttons/thumbs_down",
+	  "over": "buttons/thumbs_down__over",
+	  "down": "buttons/thumbs_down__down"
+	},
+	"thumbs_up": {
+	  "up": "buttons/thumbs_up",
+	  "over": "buttons/thumbs_up__over",
+	  "down": "buttons/thumbs_up__down"
+	},
+	"up": {
+	  "up": "buttons/up",
+	  "over": "buttons/up__over",
+	  "down": "buttons/up__down"
+	},
+	"accelerometer_off__plain": {
+	  "up": "buttons/accelerometer_off__plain",
+	  "over": "buttons/accelerometer_off__plain__over",
+	  "down": "buttons/accelerometer_off__plain__down"
+	},
+	"accelerometer_on__plain": {
+	  "up": "buttons/accelerometer_on__plain",
+	  "over": "buttons/accelerometer_on__plain__over",
+	  "down": "buttons/accelerometer_on__plain__down"
+	},
+	"exit__plain": {
+	  "up": "buttons/exit__plain",
+	  "over": "buttons/exit__plain__over",
+	  "down": "buttons/exit__plain__down"
+	},
+	"pause__plain": {
+	  "up": "buttons/pause__plain",
+	  "over": "buttons/pause__plain__over",
+	  "down": "buttons/pause__plain__down"
+	},
+	"sound_on__plain": {
+	  "up": "buttons/sound_on__plain",
+	  "over": "buttons/sound_on__plain__over",
+	  "down": "buttons/sound_on__plain__down"
+	},
+	"sound_off__plain": {
+	  "up": "buttons/sound_off__plain",
+	  "over": "buttons/sound_off__plain__over",
+	  "down": "buttons/sound_off__plain__down"
+	},
+	"play__opacity": {
+	  "up": "buttons/play__opacity",
+	  "over": "buttons/play__opacity__over",
+	  "down": "buttons/play__opacity__down"
+	},
+	"audio__menu": {
+	  "up": "buttons/audio__menu",
+	  "over": "buttons/audio__menu__over",
+	  "down": "buttons/audio__menu__down"
+	},
+	"visual__menu": {
+	  "up": "buttons/visual__menu",
+	  "over": "buttons/visual__menu__over",
+	  "down": "buttons/visual__menu__down"
+	}
+  },
+
+  "com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle": {
+	"default": {
+	  "font": "04b_19"
+	}
+  },
+
+  "com.badlogic.gdx.scenes.scene2d.ui.Slider$SliderStyle": {
+	"knob": {
+	  "background": "sliders/background",
+	  "knob": "sliders/knob"
+	}
+  }
+}

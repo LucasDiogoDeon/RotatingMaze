@@ -1,0 +1,1295 @@
+
+skin.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+audios/caetano_veloso
+  rotate: false
+  xy: 1, 517
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+audios/faustao
+  rotate: false
+  xy: 1, 259
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+audios/galvao_bueno
+  rotate: false
+  xy: 259, 517
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+audios/silvio_santos
+  rotate: false
+  xy: 1, 1
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+
+skin2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+balls/elephant
+  rotate: false
+  xy: 1, 575
+  size: 284, 285
+  orig: 284, 285
+  offset: 0, 0
+  index: -1
+balls/giraffe
+  rotate: false
+  xy: 1, 288
+  size: 284, 285
+  orig: 284, 285
+  offset: 0, 0
+  index: -1
+balls/hippo
+  rotate: false
+  xy: 287, 575
+  size: 284, 285
+  orig: 284, 285
+  offset: 0, 0
+  index: -1
+balls/monkey
+  rotate: false
+  xy: 1, 1
+  size: 284, 285
+  orig: 284, 285
+  offset: 0, 0
+  index: -1
+balls/panda
+  rotate: false
+  xy: 287, 288
+  size: 284, 285
+  orig: 284, 285
+  offset: 0, 0
+  index: -1
+balls/parrot
+  rotate: false
+  xy: 573, 575
+  size: 284, 285
+  orig: 284, 285
+  offset: 0, 0
+  index: -1
+balls/penguin
+  rotate: false
+  xy: 287, 1
+  size: 284, 285
+  orig: 284, 285
+  offset: 0, 0
+  index: -1
+balls/pig
+  rotate: false
+  xy: 573, 288
+  size: 284, 285
+  orig: 284, 285
+  offset: 0, 0
+  index: -1
+balls/rabbit
+  rotate: false
+  xy: 573, 1
+  size: 284, 285
+  orig: 284, 285
+  offset: 0, 0
+  index: -1
+
+skin3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+balls/snake
+  rotate: false
+  xy: 1, 1
+  size: 284, 285
+  orig: 284, 285
+  offset: 0, 0
+  index: -1
+
+skin4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+buttons/clock
+  rotate: false
+  xy: 1, 451
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+buttons/audio__menu
+  rotate: false
+  xy: 1, 103
+  size: 512, 346
+  orig: 512, 346
+  offset: 0, 0
+  index: -1
+buttons/down
+  rotate: false
+  xy: 515, 665
+  size: 298, 298
+  orig: 298, 298
+  offset: 0, 0
+  index: -1
+buttons/down__down
+  rotate: false
+  xy: 515, 365
+  size: 298, 298
+  orig: 298, 298
+  offset: 0, 0
+  index: -1
+buttons/down__over
+  rotate: false
+  xy: 515, 65
+  size: 298, 298
+  orig: 298, 298
+  offset: 0, 0
+  index: -1
+buttons/accelerometer_off__plain
+  rotate: false
+  xy: 815, 863
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+buttons/accelerometer_off__plain__down
+  rotate: false
+  xy: 1, 1
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+buttons/accelerometer_off__plain__over
+  rotate: false
+  xy: 815, 761
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+buttons/accelerometer_on__plain
+  rotate: false
+  xy: 917, 863
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+buttons/accelerometer_on__plain__down
+  rotate: false
+  xy: 103, 1
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+buttons/accelerometer_on__plain__over
+  rotate: false
+  xy: 815, 659
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+buttons/exit__plain
+  rotate: false
+  xy: 917, 761
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+buttons/exit__plain__down
+  rotate: false
+  xy: 205, 1
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+buttons/exit__plain__over
+  rotate: false
+  xy: 815, 557
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+buttons/pause__plain
+  rotate: false
+  xy: 917, 659
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+buttons/pause__plain__down
+  rotate: false
+  xy: 307, 1
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+buttons/pause__plain__over
+  rotate: false
+  xy: 815, 455
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+buttons/sound_off__plain
+  rotate: false
+  xy: 917, 557
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+buttons/sound_off__plain__down
+  rotate: false
+  xy: 409, 1
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+buttons/sound_off__plain__over
+  rotate: false
+  xy: 815, 353
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+buttons/sound_on__plain
+  rotate: false
+  xy: 917, 455
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+buttons/sound_on__plain__down
+  rotate: false
+  xy: 815, 251
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+buttons/sound_on__plain__over
+  rotate: false
+  xy: 917, 353
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+
+skin5.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+buttons/editor
+  rotate: false
+  xy: 1, 601
+  size: 298, 298
+  orig: 298, 298
+  offset: 0, 0
+  index: -1
+buttons/editor__down
+  rotate: false
+  xy: 301, 601
+  size: 298, 298
+  orig: 298, 298
+  offset: 0, 0
+  index: -1
+buttons/editor__icon
+  rotate: false
+  xy: 601, 601
+  size: 298, 298
+  orig: 298, 298
+  offset: 0, 0
+  index: -1
+buttons/editor__over
+  rotate: false
+  xy: 1, 301
+  size: 298, 298
+  orig: 298, 298
+  offset: 0, 0
+  index: -1
+buttons/exit
+  rotate: false
+  xy: 301, 301
+  size: 298, 298
+  orig: 298, 298
+  offset: 0, 0
+  index: -1
+buttons/exit__down
+  rotate: false
+  xy: 601, 301
+  size: 298, 298
+  orig: 298, 298
+  offset: 0, 0
+  index: -1
+buttons/exit__over
+  rotate: false
+  xy: 1, 1
+  size: 298, 298
+  orig: 298, 298
+  offset: 0, 0
+  index: -1
+buttons/help
+  rotate: false
+  xy: 301, 1
+  size: 298, 298
+  orig: 298, 298
+  offset: 0, 0
+  index: -1
+buttons/help__down
+  rotate: false
+  xy: 601, 1
+  size: 298, 298
+  orig: 298, 298
+  offset: 0, 0
+  index: -1
+
+skin6.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+buttons/help__icon
+  rotate: false
+  xy: 1, 601
+  size: 298, 298
+  orig: 298, 298
+  offset: 0, 0
+  index: -1
+buttons/help__over
+  rotate: false
+  xy: 301, 601
+  size: 298, 298
+  orig: 298, 298
+  offset: 0, 0
+  index: -1
+buttons/info
+  rotate: false
+  xy: 601, 601
+  size: 298, 298
+  orig: 298, 298
+  offset: 0, 0
+  index: -1
+buttons/info__down
+  rotate: false
+  xy: 1, 301
+  size: 298, 298
+  orig: 298, 298
+  offset: 0, 0
+  index: -1
+buttons/info__icon
+  rotate: false
+  xy: 301, 301
+  size: 298, 298
+  orig: 298, 298
+  offset: 0, 0
+  index: -1
+buttons/info__over
+  rotate: false
+  xy: 601, 301
+  size: 298, 298
+  orig: 298, 298
+  offset: 0, 0
+  index: -1
+buttons/left
+  rotate: false
+  xy: 1, 1
+  size: 298, 298
+  orig: 298, 298
+  offset: 0, 0
+  index: -1
+buttons/left__down
+  rotate: false
+  xy: 301, 1
+  size: 298, 298
+  orig: 298, 298
+  offset: 0, 0
+  index: -1
+buttons/left__over
+  rotate: false
+  xy: 601, 1
+  size: 298, 298
+  orig: 298, 298
+  offset: 0, 0
+  index: -1
+
+skin7.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+buttons/next
+  rotate: false
+  xy: 1, 601
+  size: 298, 298
+  orig: 298, 298
+  offset: 0, 0
+  index: -1
+buttons/play
+  rotate: false
+  xy: 1, 601
+  size: 298, 298
+  orig: 298, 298
+  offset: 0, 0
+  index: -1
+buttons/next__down
+  rotate: false
+  xy: 301, 601
+  size: 298, 298
+  orig: 298, 298
+  offset: 0, 0
+  index: -1
+buttons/play__down
+  rotate: false
+  xy: 301, 601
+  size: 298, 298
+  orig: 298, 298
+  offset: 0, 0
+  index: -1
+buttons/next__over
+  rotate: false
+  xy: 601, 601
+  size: 298, 298
+  orig: 298, 298
+  offset: 0, 0
+  index: -1
+buttons/play__over
+  rotate: false
+  xy: 601, 601
+  size: 298, 298
+  orig: 298, 298
+  offset: 0, 0
+  index: -1
+buttons/pause
+  rotate: false
+  xy: 1, 301
+  size: 298, 298
+  orig: 298, 298
+  offset: 0, 0
+  index: -1
+buttons/pause__down
+  rotate: false
+  xy: 301, 301
+  size: 298, 298
+  orig: 298, 298
+  offset: 0, 0
+  index: -1
+buttons/pause__over
+  rotate: false
+  xy: 601, 301
+  size: 298, 298
+  orig: 298, 298
+  offset: 0, 0
+  index: -1
+buttons/play__opacity
+  rotate: false
+  xy: 1, 1
+  size: 298, 298
+  orig: 298, 298
+  offset: 0, 0
+  index: -1
+buttons/play__opacity__down
+  rotate: false
+  xy: 301, 1
+  size: 298, 298
+  orig: 298, 298
+  offset: 0, 0
+  index: -1
+buttons/play__opacity__over
+  rotate: false
+  xy: 601, 1
+  size: 298, 298
+  orig: 298, 298
+  offset: 0, 0
+  index: -1
+
+skin8.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+buttons/retry
+  rotate: false
+  xy: 1, 601
+  size: 298, 298
+  orig: 298, 298
+  offset: 0, 0
+  index: -1
+buttons/retry__down
+  rotate: false
+  xy: 301, 601
+  size: 298, 298
+  orig: 298, 298
+  offset: 0, 0
+  index: -1
+buttons/retry__over
+  rotate: false
+  xy: 601, 601
+  size: 298, 298
+  orig: 298, 298
+  offset: 0, 0
+  index: -1
+buttons/return
+  rotate: false
+  xy: 1, 301
+  size: 298, 298
+  orig: 298, 298
+  offset: 0, 0
+  index: -1
+buttons/return__down
+  rotate: false
+  xy: 301, 301
+  size: 298, 298
+  orig: 298, 298
+  offset: 0, 0
+  index: -1
+buttons/return__over
+  rotate: false
+  xy: 601, 301
+  size: 298, 298
+  orig: 298, 298
+  offset: 0, 0
+  index: -1
+buttons/right
+  rotate: false
+  xy: 1, 1
+  size: 298, 298
+  orig: 298, 298
+  offset: 0, 0
+  index: -1
+buttons/right__down
+  rotate: false
+  xy: 301, 1
+  size: 298, 298
+  orig: 298, 298
+  offset: 0, 0
+  index: -1
+buttons/right__over
+  rotate: false
+  xy: 601, 1
+  size: 298, 298
+  orig: 298, 298
+  offset: 0, 0
+  index: -1
+
+skin9.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+buttons/settings
+  rotate: false
+  xy: 1, 601
+  size: 298, 298
+  orig: 298, 298
+  offset: 0, 0
+  index: -1
+buttons/settings__down
+  rotate: false
+  xy: 301, 601
+  size: 298, 298
+  orig: 298, 298
+  offset: 0, 0
+  index: -1
+buttons/settings__icon
+  rotate: false
+  xy: 601, 601
+  size: 298, 298
+  orig: 298, 298
+  offset: 0, 0
+  index: -1
+buttons/settings__over
+  rotate: false
+  xy: 1, 301
+  size: 298, 298
+  orig: 298, 298
+  offset: 0, 0
+  index: -1
+buttons/statistics
+  rotate: false
+  xy: 301, 301
+  size: 298, 298
+  orig: 298, 298
+  offset: 0, 0
+  index: -1
+buttons/statistics__down
+  rotate: false
+  xy: 601, 301
+  size: 298, 298
+  orig: 298, 298
+  offset: 0, 0
+  index: -1
+buttons/statistics__icon
+  rotate: false
+  xy: 1, 1
+  size: 298, 298
+  orig: 298, 298
+  offset: 0, 0
+  index: -1
+buttons/statistics__over
+  rotate: false
+  xy: 301, 1
+  size: 298, 298
+  orig: 298, 298
+  offset: 0, 0
+  index: -1
+buttons/thumbs_down
+  rotate: false
+  xy: 601, 1
+  size: 298, 298
+  orig: 298, 298
+  offset: 0, 0
+  index: -1
+
+skin10.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+buttons/thumbs_down__down
+  rotate: false
+  xy: 1, 601
+  size: 298, 298
+  orig: 298, 298
+  offset: 0, 0
+  index: -1
+buttons/thumbs_down__icon
+  rotate: false
+  xy: 301, 601
+  size: 298, 298
+  orig: 298, 298
+  offset: 0, 0
+  index: -1
+buttons/thumbs_down__over
+  rotate: false
+  xy: 601, 601
+  size: 298, 298
+  orig: 298, 298
+  offset: 0, 0
+  index: -1
+buttons/thumbs_up
+  rotate: false
+  xy: 1, 301
+  size: 298, 298
+  orig: 298, 298
+  offset: 0, 0
+  index: -1
+buttons/thumbs_up__down
+  rotate: false
+  xy: 301, 301
+  size: 298, 298
+  orig: 298, 298
+  offset: 0, 0
+  index: -1
+buttons/thumbs_up__icon
+  rotate: false
+  xy: 601, 301
+  size: 298, 298
+  orig: 298, 298
+  offset: 0, 0
+  index: -1
+buttons/thumbs_up__over
+  rotate: false
+  xy: 1, 1
+  size: 298, 298
+  orig: 298, 298
+  offset: 0, 0
+  index: -1
+buttons/up
+  rotate: false
+  xy: 301, 1
+  size: 298, 298
+  orig: 298, 298
+  offset: 0, 0
+  index: -1
+buttons/up__down
+  rotate: false
+  xy: 601, 1
+  size: 298, 298
+  orig: 298, 298
+  offset: 0, 0
+  index: -1
+
+skin11.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+buttons/podium
+  rotate: false
+  xy: 1, 349
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+buttons/audio__menu__down
+  rotate: false
+  xy: 1, 1
+  size: 512, 346
+  orig: 512, 346
+  offset: 0, 0
+  index: -1
+buttons/up__over
+  rotate: false
+  xy: 515, 563
+  size: 298, 298
+  orig: 298, 298
+  offset: 0, 0
+  index: -1
+
+skin12.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+buttons/programmer
+  rotate: false
+  xy: 1, 349
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+buttons/audio__menu__over
+  rotate: false
+  xy: 1, 1
+  size: 512, 346
+  orig: 512, 346
+  offset: 0, 0
+  index: -1
+
+skin13.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+buttons/sound_off
+  rotate: false
+  xy: 1, 349
+  size: 512, 346
+  orig: 512, 346
+  offset: 0, 0
+  index: -1
+buttons/sound_on
+  rotate: false
+  xy: 1, 1
+  size: 512, 346
+  orig: 512, 346
+  offset: 0, 0
+  index: -1
+
+skin14.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+buttons/visual__menu
+  rotate: false
+  xy: 1, 349
+  size: 512, 346
+  orig: 512, 346
+  offset: 0, 0
+  index: -1
+buttons/visual__menu__down
+  rotate: false
+  xy: 1, 1
+  size: 512, 346
+  orig: 512, 346
+  offset: 0, 0
+  index: -1
+
+skin15.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+buttons/visual__menu__over
+  rotate: false
+  xy: 1, 1
+  size: 512, 346
+  orig: 512, 346
+  offset: 0, 0
+  index: -1
+
+skin16.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+environments/cake
+  rotate: false
+  xy: 1, 10
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+environments/castle
+  rotate: false
+  xy: 1, 7
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+environments/choco
+  rotate: false
+  xy: 4, 10
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+environments/sand
+  rotate: false
+  xy: 4, 10
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+environments/dirt
+  rotate: false
+  xy: 1, 4
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+environments/grass
+  rotate: false
+  xy: 4, 7
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+environments/purple
+  rotate: false
+  xy: 7, 10
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+environments/snow
+  rotate: false
+  xy: 1, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+environments/tundra
+  rotate: false
+  xy: 1, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+
+skin17.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+masks/gameover
+  rotate: false
+  xy: 1, 4
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+masks/gamewon
+  rotate: false
+  xy: 1, 4
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+masks/paused
+  rotate: false
+  xy: 1, 4
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+masks/ready
+  rotate: false
+  xy: 1, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+
+skin18.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+pipes/cake/all
+  rotate: false
+  xy: 1, 76
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+pipes/cake/square
+  rotate: false
+  xy: 1, 4
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+pipes/cake/border
+  rotate: false
+  xy: 139, 211
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+pipes/cake/finish
+  rotate: false
+  xy: 1, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+
+skin19.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+pipes/castle/all
+  rotate: false
+  xy: 1, 76
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+pipes/castle/square
+  rotate: false
+  xy: 1, 4
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+pipes/castle/border
+  rotate: false
+  xy: 139, 211
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+pipes/castle/finish
+  rotate: false
+  xy: 1, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+
+skin20.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+pipes/choco/all
+  rotate: false
+  xy: 1, 76
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+pipes/choco/square
+  rotate: false
+  xy: 1, 4
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+pipes/choco/border
+  rotate: false
+  xy: 139, 211
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+pipes/choco/finish
+  rotate: false
+  xy: 1, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+
+skin21.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+pipes/dirt/all
+  rotate: false
+  xy: 1, 76
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+pipes/dirt/square
+  rotate: false
+  xy: 1, 4
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+pipes/dirt/border
+  rotate: false
+  xy: 139, 211
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+pipes/dirt/finish
+  rotate: false
+  xy: 1, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+
+skin22.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+pipes/grass/all
+  rotate: false
+  xy: 1, 76
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+pipes/grass/square
+  rotate: false
+  xy: 1, 4
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+pipes/grass/border
+  rotate: false
+  xy: 139, 211
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+pipes/grass/finish
+  rotate: false
+  xy: 1, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+
+skin23.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+pipes/purple/all
+  rotate: false
+  xy: 1, 76
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+pipes/purple/square
+  rotate: false
+  xy: 1, 4
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+pipes/purple/border
+  rotate: false
+  xy: 139, 211
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+pipes/purple/finish
+  rotate: false
+  xy: 1, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+
+skin24.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+pipes/sand/all
+  rotate: false
+  xy: 1, 76
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+pipes/sand/square
+  rotate: false
+  xy: 1, 4
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+pipes/sand/border
+  rotate: false
+  xy: 139, 211
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+pipes/sand/finish
+  rotate: false
+  xy: 1, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+
+skin25.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+pipes/snow/all
+  rotate: false
+  xy: 1, 76
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+pipes/snow/square
+  rotate: false
+  xy: 1, 4
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+pipes/snow/border
+  rotate: false
+  xy: 139, 211
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+pipes/snow/finish
+  rotate: false
+  xy: 1, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+
+skin26.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+pipes/tundra/all
+  rotate: false
+  xy: 1, 76
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+pipes/tundra/square
+  rotate: false
+  xy: 1, 4
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+pipes/tundra/border
+  rotate: false
+  xy: 139, 211
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+pipes/tundra/finish
+  rotate: false
+  xy: 1, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+
+skin27.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+sliders/knob
+  rotate: false
+  xy: 1, 5
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+sliders/background
+  rotate: false
+  xy: 1, 1
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+
+skin28.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+texts/main__title
+  rotate: false
+  xy: 1, 409
+  size: 912, 96
+  orig: 912, 96
+  offset: 0, 0
+  index: -1
+texts/you_lose__title
+  rotate: false
+  xy: 1, 306
+  size: 547, 101
+  orig: 547, 101
+  offset: 0, 0
+  index: -1
+texts/visuals__title
+  rotate: false
+  xy: 550, 306
+  size: 452, 101
+  orig: 452, 101
+  offset: 0, 0
+  index: -1
+texts/levels__title
+  rotate: false
+  xy: 1, 203
+  size: 393, 101
+  orig: 393, 101
+  offset: 0, 0
+  index: -1
+texts/settings__title
+  rotate: false
+  xy: 396, 204
+  size: 540, 100
+  orig: 540, 100
+  offset: 0, 0
+  index: -1
+texts/statistics__title
+  rotate: false
+  xy: 1, 101
+  size: 655, 100
+  orig: 655, 100
+  offset: 0, 0
+  index: -1
+texts/help__title
+  rotate: false
+  xy: 1, 1
+  size: 252, 98
+  orig: 252, 98
+  offset: 0, 0
+  index: -1
+texts/you_win__title
+  rotate: false
+  xy: 255, 2
+  size: 479, 97
+  orig: 479, 97
+  offset: 0, 0
+  index: -1
+texts/audio__title
+  rotate: false
+  xy: 658, 105
+  size: 318, 97
+  orig: 318, 97
+  offset: 0, 0
+  index: -1
+texts/info__title
+  rotate: false
+  xy: 736, 7
+  size: 248, 96
+  orig: 248, 96
+  offset: 0, 0
+  index: -1

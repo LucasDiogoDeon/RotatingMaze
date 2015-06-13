@@ -1,0 +1,102 @@
+exit
+ font-awesome
+  cross41
+
+help
+ font-awesome
+  question23
+
+pause
+ font-awesome
+  pause14 (mod)
+
+resume
+ font-awesome
+  play40
+
+play
+ font-awesome
+  play40
+
+info
+ font-awesome
+  information35
+
+statistics
+ font-awesome
+  signal22
+
+settings
+ font-awesome
+  cog2
+
+music
+ font-awesome
+  music67
+
+visual
+ font-awesome
+  eye50
+
+up
+ font-awesome
+  chevron17
+
+down
+ font-awesome
+  chevron23
+
+left
+ font-awesome
+  chevron24
+
+right
+ font-awesome
+  chevron19
+
+sound_off
+ font-awesome
+  volume28
+
+sound_on
+ font-awesome
+  volume29
+
+editor
+ font-awesome
+  pencil30
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
