@@ -4,59 +4,59 @@ import com.badlogic.gdx.math.Rectangle;
 import com.badlogic.gdx.math.Vector2;
 
 /**
- * Tubulação Abstrata
+ * Tubulacao Abstrata
  */
 public abstract class PipeShape {
 
     /**
-     * Tipo da tubulação
+     * Tipo da tubulacao
      */
     protected PipeType pipeType;
 
     /**
-     * Largura total da tubulação
+     * Largura total da tubulacao
      */
     protected float width;
     protected float midWidth;
 
     /**
-     * Altura total da tubulação
+     * Altura total da tubulacao
      */
     protected float height;
     protected float midHeight;
 
     /**
-     * Espessura da tubulação
+     * Espessura da tubulacao
      */
     protected float thickness;
     protected float midThickness;
 
     /**
-     * Posição central da tubulação
+     * Posicao central da tubulacao
      */
     protected Vector2 position;
 
     /**
-     * Bounds da tubulação
+     * Bounds da tubulacao
      */
     protected Rectangle boundsRectangle;
 
 
     /**
-     * Retângulos da tubulação
-     * Utilizados para a detecção de colisões
+     * Retangulos da tubulacao
+     * Utilizados para a deteccao de colisoes
      */
     protected Rectangle[] boundingRectangles;
 
     /**
-     * Tipos dos retângulos da tubulação
+     * Tipos dos retï¿½ngulos da tubulacao
      */
     protected RectangleType[] boundingRectangleTypes;
 
 
     /**
-     * Construtor da tubulação
-     * @param pipeType Tipo da tubulação
+     * Construtor da tubulacao
+     * @param pipeType Tipo da tubulacao
      * @param x        Primeira coordenada x : horizontal
      * @param y        Primeira coordenada y : vertical
      */
@@ -99,7 +99,7 @@ public abstract class PipeShape {
     }
 
     /**
-     * Configura os retângulos da tubulação
+     * Configura os retangulos da tubulacao
      */
     protected abstract void configBoundingRectangles();
 
@@ -136,7 +136,7 @@ public abstract class PipeShape {
     }
 
     /**
-     * Retorna o tipo da tubulação
+     * Retorna o tipo da tubulaï¿½ï¿½o
      * @return
      */
     public PipeType getPipeType() {
@@ -144,7 +144,7 @@ public abstract class PipeShape {
     }
 
     /**
-     * Retorna a largura total da tubulação
+     * Retorna a largura total da tubulaï¿½ï¿½o
      * @return
      */
     public float getWidth() {
@@ -152,7 +152,7 @@ public abstract class PipeShape {
     }
 
     /**
-     * Retorna a altura total da tubulação
+     * Retorna a altura total da tubulaï¿½ï¿½o
      * @return
      */
     public float getHeight() {
@@ -160,7 +160,7 @@ public abstract class PipeShape {
     }
 
     /**
-     * Retorna a espessura da tubulação
+     * Retorna a espessura da tubulaï¿½ï¿½o
      * @return
      */
     public float getThickness() {
@@ -168,7 +168,7 @@ public abstract class PipeShape {
     }
 
     /**
-     * Retorna a posição central da tubulação
+     * Retorna a posicao central da tubulacao
      * @return
      */
     public Vector2 getPosition() {
@@ -176,13 +176,13 @@ public abstract class PipeShape {
     }
 
     /**
-     * Retorna a posição central da próxima tubulação
+     * Retorna a posicao central da proxima tubulacao
      * @return
      */
     public abstract Vector2 getNextPosition();
 
     /**
-     * Retorna o boundsRectangle da tubulação
+     * Retorna o boundsRectangle da tubulacao
      * @return
      */
     public Rectangle getBoundsRectangle() {
@@ -190,8 +190,8 @@ public abstract class PipeShape {
     }
 
     /**
-     * Retorna os retângulos da tubulação
-     * Utilizados para a detecção de colisões
+     * Retorna os retï¿½ngulos da tubulacao
+     * Utilizados para a detecï¿½ï¿½o de colisoes
      * @return
      */
     public Rectangle[] getBoundingRectangles() {
@@ -199,7 +199,7 @@ public abstract class PipeShape {
     }
 
     /**
-     * Retorna os tipos dos retângulos da tubulação
+     * Retorna os tipos dos retangulos da tubulacao
      * @return
      */
     public RectangleType[] getBoundingRectangleTypes() {

@@ -5,7 +5,7 @@ import com.badlogic.gdx.math.Vector2;
 import com.gmail.lucasddeon.rotatingmaze.helpers.RectangleCreator;
 
 /**
- * Tubulação Direita-Baixo
+ * Tubulacao Direita-Baixo
  */
 public class RightBottomPipeShape extends PipeShape {
 
@@ -17,7 +17,7 @@ public class RightBottomPipeShape extends PipeShape {
     }
 
     /**
-     * Configura os retângulos da tubulação
+     * Configura os retangulos da tubulacao
      */
     @Override
     protected void configBoundingRectangles() {
@@ -55,7 +55,7 @@ public class RightBottomPipeShape extends PipeShape {
     }
 
     /**
-     * Retorna a posição central da próxima tubulação
+     * Retorna a posicao central da proxima tubulacao
      * @return
      */
     @Override

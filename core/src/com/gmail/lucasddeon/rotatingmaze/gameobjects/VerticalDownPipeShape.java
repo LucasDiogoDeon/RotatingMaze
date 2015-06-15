@@ -3,12 +3,12 @@ package com.gmail.lucasddeon.rotatingmaze.gameobjects;
 import com.badlogic.gdx.math.Vector2;
 
 /**
- * Tubulação Vertical Baixo
+ * Tubulacao Vertical Baixo
  */
 public class VerticalDownPipeShape extends VerticalPipeShape {
 
     /**
-     * Construtor da tubulação
+     * Construtor da tubulacao
      * @param x        Primeira coordenada x : horizontal
      * @param y        Primeira coordenada y : vertical
      */
@@ -20,7 +20,7 @@ public class VerticalDownPipeShape extends VerticalPipeShape {
     }
 
     /**
-     * Retorna a posição central da próxima tubulação
+     * Retorna a posicao central da proxima tubulacao
      * @return
      */
     @Override

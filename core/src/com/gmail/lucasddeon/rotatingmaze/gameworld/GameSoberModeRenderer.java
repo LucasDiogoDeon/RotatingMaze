@@ -102,22 +102,22 @@ public class GameSoberModeRenderer extends GameRenderer {
     protected Image imgMaskPaused;
     protected ImageButton maskPauseButtonPlay;
 
-    // Acelerômetro
-    // O acelerômetro está disponível?
+    // Acelerometro
+    // O acelerometro esta disponivel?
     protected boolean isAccelerometerAvailable = false;
 
-    // O acelerômetro está habilitado?
+    // O acelerometro estaï¿½habilitado?
     private boolean isAccelerometerEnabled = true;
 
-    // Valores atuais do acelerômetro
+    // Valores atuais do acelerometro
     protected float lastAccY = 0;
 
     protected float degreesRotation;
     protected float degreesToRotate;
-    // / Acelerômetro
+    // / Acelerometro
 
     // Keyboard
-    // O teclado está disponível?
+    // O teclado estaï¿½ disponivel?
     protected boolean isKeyboardAvailable = false;
 
     protected final int[] keyboardsUpKeys = {

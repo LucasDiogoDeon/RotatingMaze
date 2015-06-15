@@ -49,14 +49,14 @@ public class PipeShapeCreator {
 
         PipeType[] pts = new PipeType[length];
 
-        // Tubulação inicial
+        // Tubulacao inicial
         pts[0] = PipeTypeHelper.starts;
         pts[1] = PipeTypeHelper.starts;
 
         int repetition = 1;
         boolean w;
 
-        // Resto da tubulação
+        // Resto da tubulacao
         for (int i = 2; i < length; i++) {
             do {
                 pts[i] = allPts[r.nextInt(allPtsLength)];

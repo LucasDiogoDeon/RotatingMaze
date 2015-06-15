@@ -4,13 +4,13 @@ import com.badlogic.gdx.math.Rectangle;
 import com.gmail.lucasddeon.rotatingmaze.helpers.RectangleCreator;
 
 /**
- * Tubulação Vertical Abstrata
+ * Tubulacao Vertical Abstrata
  */
 public abstract class VerticalPipeShape extends PipeShape {
 
     /**
-     * Construtor da tubulação
-     * @param pipeType Tipo da tubulação
+     * Construtor da tubulacao
+     * @param pipeType Tipo da tubulacao
      * @param x        Primeira coordenada x : horizontal
      * @param y        Primeira coordenada y : vertical
      */
@@ -20,7 +20,7 @@ public abstract class VerticalPipeShape extends PipeShape {
     }
 
     /**
-     * Configura os retângulos da tubulação
+     * Configura os retangulos da tubulacao
      */
     @Override
     protected void configBoundingRectangles() {

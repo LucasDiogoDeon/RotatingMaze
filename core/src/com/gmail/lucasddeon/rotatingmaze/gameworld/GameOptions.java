@@ -9,12 +9,12 @@ import static com.gmail.lucasddeon.rotatingmaze.helpers.ScreenHelper.MinWH;
 import static com.gmail.lucasddeon.rotatingmaze.helpers.ScreenHelper.W;
 
 /**
- * Opções de dificuldade do jogo
+ * Opcoes de dificuldade do jogo
  */
 public class GameOptions {
 
     /**
-     * Classe estátita com constantes das opções
+     * Classe estatita com constantes das opcoes
      */
     protected static final class Consts {
 
@@ -23,58 +23,58 @@ public class GameOptions {
         public static final float DISTANCE_VELOCITY_STEP = 1 / 2f;
         // / Velocidade
 
-        // Tamanho das tubulações
+        // Tamanho das tubulaï¿½ï¿½es
         public final static float PIPE_SIZE_SCALE_INITIAL = 3.00f;
         public final static float PIPE_SIZE_SCALE_MIN = 2.50f;
         public final static float PIPE_SIZE_SCALE_STEP = 0.01f;
-        // / Tamanho das tubulações
+        // / Tamanho das tubulaï¿½ï¿½es
 
-        // Comprimento do caminho das tubulações
+        // Comprimento do caminho das tubulacoes
         public final static int PIPE_SHAPE_PATH_LENGTH_INITIAL = 5;
         public final static int PIPE_SHAPE_PATH_LENGTH_STEP = 2;
-        // / Comprimento do caminho das tubulações
+        // / Comprimento do caminho das tubulacoes
 
-        // Rotação
+        // Rotacao
         public final static float ROTATION_MIN = -90f;
         public final static float ROTATION_MAX = -ROTATION_MIN;
         public final static float ROTATION_VELOCITY = 1f;
-        // / Rotação
+        // / Rotacao
 
     }
 
-    /* Nível do jogo */
+    /* Nï¿½vel do jogo */
     public final int level;
 
-    /* Posição central (normalmente, não é modificado) */
+    /* Posiï¿½ï¿½o central (normalmente, nï¿½o ï¿½ modificado) */
     public final Vector2 centerPosition;
 
     // Bola
     /* Raio da bola */
     public final float ballRadius;
-    /* Posição central da bola */
+    /* Posiï¿½ï¿½o central da bola */
     public final Vector2 ballPosition;
     // / Bola
 
-    // Tubulação
-    /* Tamanho da tubulação */
+    // Tubulacao
+    /* Tamanho da tubulacao */
     public final float pipeSize;
-    /* Espessura da tubulação */
+    /* Espessura da tubulacao */
     public final float pipeThickness;
-    /* Posição inicial do caminho das tubulações */
+    /* Posiï¿½ï¿½o inicial do caminho das tubulacoes */
     public final Vector2 pipePathPosition;
-    /* Caminho das tubulações */
+    /* Caminho das tubulacoes */
     public final PipeShapePath pipeShapePath;
-    // / Tubulação
+    // / Tubulacao
 
-    // Rotação
+    // Rotacao
     public final float rotationMin;
     public final float rotationMax;
     public final float rotationVelocity;
-    // / Rotação
+    // / Rotacao
 
-    // Distância
+    // Distancia
     public final float distanceVelocity;
-    // / Distância
+    // / Distancia
 
     /**
      *
@@ -90,18 +90,18 @@ public class GameOptions {
         this.ballRadius = MinWH() / 8;
         this.ballPosition = new Vector2(0, 0);
 
-        // Tubulação
+        // Tubulaï¿½ï¿½o
         this.pipeSize = getPipeSizeByLevel(level);
         this.pipeThickness = ballRadius * 0.25f;
         this.pipePathPosition = new Vector2((ballRadius * 2) + (pipeThickness * 2), 0);
         this.pipeShapePath = getPipeShapePathByLevel(level);
 
-        // Rotação
+        // Rotaï¿½ï¿½o
         this.rotationMin = Consts.ROTATION_MIN;
         this.rotationMax = Consts.ROTATION_MAX;
         this.rotationVelocity = Consts.ROTATION_VELOCITY;
 
-        // Distância
+        // Distï¿½ncia
         this.distanceVelocity = getDistanceVelocityByLevel(level);
 
     }

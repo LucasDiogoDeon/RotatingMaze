@@ -4,7 +4,7 @@ import com.badlogic.gdx.math.Rectangle;
 import com.gmail.lucasddeon.rotatingmaze.helpers.RectangleCreator;
 
 /**
- * Caminho formado por um conjunto de Tubulações
+ * Caminho formado por um conjunto de Tubulacoes
  */
 public class PipeShapePath {
 

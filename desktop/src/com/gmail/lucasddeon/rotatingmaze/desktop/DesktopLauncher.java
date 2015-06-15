@@ -11,7 +11,32 @@ public class DesktopLauncher {
 
 		config.width = RotatingMazeGame.DesktopConfig.WIDTH;
 		config.height = RotatingMazeGame.DesktopConfig.HEIGHT;
-		config.resizable = RotatingMazeGame.DesktopConfig.RESIZABLE;
+
+        // Gráfico de recursos
+		//config.width = 1024;
+		//config.height = 500;
+
+        // Gráfico promocional
+        //config.width = 180;
+        //config.height = 120;
+
+        // Banner de TV
+        //config.width = 320;
+        //config.height = 180;
+
+        // Telefone
+        //config.width = 960;
+        //config.height = 640;
+
+        // tablet de 7"
+        //config.width = 1024;
+        //config.height = 600;
+
+        // tablet de 10"
+        //config.width = 1280;
+        //config.height = 800;
+
+        config.resizable = RotatingMazeGame.DesktopConfig.RESIZABLE;
 		config.samples = RotatingMazeGame.DesktopConfig.SAMPLES;
 		config.title = RotatingMazeGame.DesktopConfig.TITLE;
 

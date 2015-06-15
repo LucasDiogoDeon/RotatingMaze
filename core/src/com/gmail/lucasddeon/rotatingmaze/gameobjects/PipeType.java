@@ -1,42 +1,42 @@
 package com.gmail.lucasddeon.rotatingmaze.gameobjects;
 
 /**
- * Tipos de Tubulação
+ * Tipos de Tubulacao
  */
 public enum PipeType {
 
-    // Tubulação Horizontal
+    // Tubulacao Horizontal
     // ----
     //
     // ----
     HORIZONTAL,
 
-    // Tubulações Verticais
+    // Tubulacoes Verticais
     // |  |
     // |  |
     // |  |
     VERTICAL_UP,
     VERTICAL_DOWN,
 
-    // Tubulação Direita-Baixo
+    // Tubulacao Direita-Baixo
     // ---|
     //    |
     //    |
     RIGHT_BOTTOM,
 
-    // Tubulação Cima-Direita
+    // Tubulacao Cima-Direita
     // |---
     // |
     // |
     TOP_RIGHT,
 
-    // Tubulação Baixo-Direita
+    // Tubulaï¿½ï¿½o Baixo-Direita
     // |
     // |
     // |---
     BOTTOM_RIGHT,
 
-    // Tubulação Direita-Cima
+    // Tubulaï¿½ï¿½o Direita-Cima
     //    |
     //    |
     // ---|

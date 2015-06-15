@@ -153,10 +153,10 @@ public class UserGameLevelsPreferences {
 
             if (!contains(i, Consts.ENABLED)) {
                 if (i == 0) {
-                    // O primeiro nível sempre deve ser habilitado...
+                    // O primeiro nivel sempre deve ser habilitado...
                     setEnabled(i, true);
                 } else {
-                    // ... os outros níveis, não
+                    // ... os outros niveis, nao
                     setEnabled(i, false);
                 }
             }

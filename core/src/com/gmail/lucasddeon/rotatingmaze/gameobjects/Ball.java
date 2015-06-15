@@ -14,13 +14,13 @@ public class Ball {
     protected float radius;
 
     /**
-     * Posição central da bola na tela
+     * Posicao central da bola na tela
      */
     protected Vector2 position;
 
     /**
-     * Círculo da bola
-     * Utilizada para a detecção de colisões
+     * Circulo da bola
+     * Utilizada para a detecï¿½ï¿½o de colisï¿½es
      */
     protected Circle boundingCircle;
 
@@ -49,7 +49,7 @@ public class Ball {
     }
 
     /**
-     * Retorna a posição da bola na tela
+     * Retorna a posicao da bola na tela
      * @return
      */
     public Vector2 getPosition() {
@@ -73,7 +73,7 @@ public class Ball {
     }
 
     /**
-     * Retorna o círculo da bola
+     * Retorna o circulo da bola
      * @return
      */
     public Circle getBoundingCircle() {
