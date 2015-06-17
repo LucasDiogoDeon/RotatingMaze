@@ -31,7 +31,8 @@ public class GameOptions {
 
         // Comprimento do caminho das tubulacoes
         public final static int PIPE_SHAPE_PATH_LENGTH_INITIAL = 5;
-        public final static int PIPE_SHAPE_PATH_LENGTH_STEP = 2;
+        //public final static int PIPE_SHAPE_PATH_LENGTH_STEP = 2;
+        public final static int PIPE_SHAPE_PATH_LENGTH_STEP = 1;
         // / Comprimento do caminho das tubulacoes
 
         // Rotacao
