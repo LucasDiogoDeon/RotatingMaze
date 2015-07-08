@@ -20,7 +20,7 @@ public class GameOptions {
 
         // Velocidade
         public final static float DISTANCE_VELOCITY_INITIAL = 2.50f;
-        public static final float DISTANCE_VELOCITY_STEP = 1 / 2f;
+        public static final float DISTANCE_VELOCITY_STEP = 1f;
         // / Velocidade
 
         // Tamanho das tubula��es
@@ -31,8 +31,7 @@ public class GameOptions {
 
         // Comprimento do caminho das tubulacoes
         public final static int PIPE_SHAPE_PATH_LENGTH_INITIAL = 5;
-        //public final static int PIPE_SHAPE_PATH_LENGTH_STEP = 2;
-        public final static int PIPE_SHAPE_PATH_LENGTH_STEP = 1;
+        public final static float PIPE_SHAPE_PATH_LENGTH_STEP = 0.5f;
         // / Comprimento do caminho das tubulacoes
 
         // Rotacao
@@ -145,9 +144,9 @@ public class GameOptions {
     protected int getPipeShapePathLengthByLevel(int level) {
 
         int initial = Consts.PIPE_SHAPE_PATH_LENGTH_INITIAL;
-        int step = Consts.PIPE_SHAPE_PATH_LENGTH_STEP;
+        float step = Consts.PIPE_SHAPE_PATH_LENGTH_STEP;
 
-        int length = initial + (step * (level - 1));
+        int length = initial + (int)Math.floor(step * (level - 1));
 
         return length;
 
